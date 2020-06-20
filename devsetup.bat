@@ -9,6 +9,6 @@ if not exist Vindicta.Staszow mklink /D /J Vindicta.Staszow Vindicta.Altis
 if not exist Vindicta.Beketov mklink /D /J Vindicta.Beketov Vindicta.Altis
 if not exist Vindicta.Takistan mklink /D /J Vindicta.Takistan Vindicta.Altis
 if not exist Vindicta.gm_weferlingen_summer mklink /D /J Vindicta.gm_weferlingen_summer Vindicta.Altis
-if not exist Vindicta.Gorgona mklink /D /J Vindicta.Gorgona Vindicta.Altis
+if not exist Vindicta.Utes mklink /D /J Vindicta.Utes Vindicta.Altis
 call edit_altis.bat
 POPD
